@@ -1,5 +1,5 @@
 # aws_imagerecognition_tool
-Utilization of aws tools to design image recognition tool 
+Image Recognition tool developed with Python and AWS Services 
 
 
 Requisites:
